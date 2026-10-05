@@ -1,0 +1,23 @@
+HOW TO RUN THE POJECT :
+
+1. download python to your pc (https://www.python.org/downloads/)
+
+2. go to vscode and download "python" + "code runner" extention 
+
+3. open the project in vscode
+
+4.download juniper.csv , tbo_hotel.csv and hotelBeds_hotel.csv and add them in the poject file 
+(fiham bzzf 3liha mahabathamsh sa3a bah yhabto f drive (: )
+
+5. go to terminal in vscode (Terminal > new Terminal) and download the library below :
+
+pip install pandas 
+pip install phonetics
+pip install -U scikit-learn (more info : https://github.com/scikit-learn/scikit-learn)
+pip install recordlinkage
+
+6. run the main
+
+nshlh yamshi kolsh b1 3ndk for more info call : 032372823929 okey by 
+
+DONE .
